@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nexus-v4';
+const CACHE_NAME = 'diario-v1';
 const ASSETS = [
   'index.html',
   'manifest.json',
